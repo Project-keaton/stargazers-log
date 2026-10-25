@@ -1,0 +1,23 @@
+[
+  {
+    "name": "octocat/hello-world","starred":"2024-01-15",
+    "description": "This repo is for demonstration purposes.",
+    "language": "HTML",
+    "stars": 12400,
+    "url": "https://github.com/octocat/Spoon-Knife"
+  },
+  {
+    "name": "github/docs","starred":"2024-02-02"
+    "description": "24 lessons, 12 weeks, and 24 quizzes for web development beginners.",
+    "language": "JavaScript",
+    "stars": 89000,
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
+  },
+  {
+    "name": "octo-org/octo-repo","starred":"2024-03-21",
+    "description": "The open-source repository for GitHub's documentation.",
+    "language": "JavaScript",
+    "stars": 17000,
+    "url": "https://github.com/github/docs"
+  }
+]
